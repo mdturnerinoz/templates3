@@ -1,4 +1,3 @@
-# change CXX to CC for C and g++ to gcc
 CXXFLAGS := -g -O0
 CXX      := g++
 SRC      := templates.cpp
